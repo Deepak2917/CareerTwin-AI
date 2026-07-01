@@ -1,36 +1,180 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 CareerTwin AI
 
-## Getting Started
+> AI-Powered Career Intelligence Platform for Placement Preparation
 
-First, run the development server:
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Groq](https://img.shields.io/badge/Groq-LLM-orange?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)
+
+---
+
+## 🌐 Live Demo
+
+🔗 https://career-twin-ai-mocha.vercel.app
+
+---
+
+## 📖 About
+
+CareerTwin AI is an AI-powered placement preparation platform that analyzes resumes, identifies skill gaps, predicts salary ranges, evaluates ATS compatibility, analyzes GitHub profiles, tracks coding progress, and generates personalized AI mock interviews.
+
+The platform helps students understand their placement readiness and provides actionable recommendations to improve their chances of getting hired.
+
+---
+
+# ✨ Features
+
+### 📄 AI Resume Analysis
+- Resume parsing (TXT & DOCX)
+- Career Score
+- ATS Score
+- Placement Probability
+- Company Readiness
+- Company-specific Salary Prediction
+
+### 🧠 Skill Analysis
+- Existing Skills Detection
+- Missing Skills Detection
+- Personalized Career Suggestions
+
+### 💻 Coding Profile Analysis
+- GitHub Profile Tracker
+- LeetCode Username Detection
+- DSA Recommendations
+
+### 📚 Learning Roadmap
+- Personalized 4-week AI learning roadmap
+- Weekly improvement goals
+- Skill-based recommendations
+
+### 🤖 AI Mock Interview
+- HR Questions
+- Resume-Based Questions
+- Technical Questions
+- DSA Questions
+- AI Evaluation
+- Interview Score
+- Strengths & Weaknesses
+- Ideal Answer Suggestions
+
+### 📊 Report Generation
+- Download Complete Career Report
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+### Backend
+- Next.js API Routes
+- Groq LLM API
+
+### AI
+- Llama 3.3 70B Versatile
+
+### Deployment
+- Vercel
+
+### Version Control
+- Git
+- GitHub
+
+---
+
+# 📂 Project Structure
+
+```
+app/
+components/
+data/
+public/
+```
+
+---
+
+# ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Deepak2917/CareerTwin-AI.git
+```
+
+Move inside project
+
+```bash
+cd CareerTwin-AI
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Create an environment file
+
+```env
+GROQ_API_KEY=YOUR_GROQ_API_KEY
+```
+
+Run the project
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# 📸 Screenshots
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Home Page
 
-## Learn More
+_Add homepage screenshot here_
 
-To learn more about Next.js, take a look at the following resources:
+## Resume Analysis
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+_Add analysis screenshot here_
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## AI Interview
 
-## Deploy on Vercel
+_Add interview screenshot here_
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# 🎯 Future Improvements
+
+- PDF Resume Support
+- LinkedIn Profile Analysis
+- Voice-based AI Interview
+- AI Resume Builder
+- Company Interview Database
+- Multi-language Resume Analysis
+
+---
+
+# 👨‍💻 Developer
+
+**Deepak Gowda S R**
+
+- GitHub: https://github.com/Deepak2917
+
+---
+
+# ⭐ If you like this project
+
+Please consider giving it a ⭐ on GitHub.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
