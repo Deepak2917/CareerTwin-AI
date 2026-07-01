@@ -1,4 +1,4 @@
-# 🚀 CareerTwin AI
+#  CareerTwin AI
 
 > AI-Powered Career Intelligence Platform for Placement Preparation
 
@@ -17,7 +17,7 @@
 
 ---
 
-# 📖 About
+#  About
 
 CareerTwin AI is an AI-powered placement preparation platform that helps students evaluate their placement readiness using AI.
 
@@ -25,9 +25,9 @@ The platform analyzes resumes, predicts salary ranges, evaluates ATS compatibili
 
 ---
 
-# ✨ Features
+#  Features
 
-### 📄 Resume Analysis
+###  Resume Analysis
 
 - AI Resume Analysis
 - Career Score
@@ -36,7 +36,7 @@ The platform analyzes resumes, predicts salary ranges, evaluates ATS compatibili
 - Company Readiness
 - Salary Prediction
 
-### 🧠 Skill Analysis
+###  Skill Analysis
 
 - Skill Detection
 - Missing Skill Identification
@@ -66,7 +66,7 @@ The platform analyzes resumes, predicts salary ranges, evaluates ATS compatibili
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Frontend
 
@@ -95,7 +95,7 @@ The platform analyzes resumes, predicts salary ranges, evaluates ATS compatibili
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 app/
@@ -106,7 +106,7 @@ public/
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 Clone the repository
 
@@ -146,7 +146,7 @@ http://localhost:3000
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 ## Home Page
 
@@ -166,7 +166,7 @@ _Add AI Interview Screenshot_
 
 ---
 
-# 🎯 Future Improvements
+# Future Improvements
 
 - PDF Resume Support
 - LinkedIn Profile Analysis
@@ -176,7 +176,7 @@ _Add AI Interview Screenshot_
 
 ---
 
-# 👨‍💻 Developer
+#  Developer
 
 **Deepak Gowda S R**
 
