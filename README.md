@@ -5,52 +5,52 @@
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![Groq](https://img.shields.io/badge/Groq-LLM-orange?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)
 
 ---
 
-## 🌐 Live Demo
+# 🌐 Live Demo
 
-🔗 https://career-twin-ai-mocha.vercel.app
+### 🔗 https://career-twin-ai-mocha.vercel.app
 
 ---
 
-## 📖 About
+# 📖 About
 
-CareerTwin AI is an AI-powered placement preparation platform that analyzes resumes, identifies skill gaps, predicts salary ranges, evaluates ATS compatibility, analyzes GitHub profiles, tracks coding progress, and generates personalized AI mock interviews.
+CareerTwin AI is an AI-powered placement preparation platform that helps students evaluate their placement readiness using AI.
 
-The platform helps students understand their placement readiness and provides actionable recommendations to improve their chances of getting hired.
+The platform analyzes resumes, predicts salary ranges, evaluates ATS compatibility, identifies skill gaps, analyzes GitHub profiles, tracks coding progress, generates personalized learning roadmaps, and conducts AI-powered mock interviews.
 
 ---
 
 # ✨ Features
 
-### 📄 AI Resume Analysis
-- Resume parsing (TXT & DOCX)
+### 📄 Resume Analysis
+
+- AI Resume Analysis
 - Career Score
 - ATS Score
 - Placement Probability
 - Company Readiness
-- Company-specific Salary Prediction
+- Salary Prediction
 
 ### 🧠 Skill Analysis
-- Existing Skills Detection
-- Missing Skills Detection
-- Personalized Career Suggestions
 
-### 💻 Coding Profile Analysis
-- GitHub Profile Tracker
+- Skill Detection
+- Missing Skill Identification
+- Career Suggestions
+- Personalized Learning Roadmap
+
+### 💻 Coding Profiles
+
+- GitHub Profile Tracking
 - LeetCode Username Detection
 - DSA Recommendations
 
-### 📚 Learning Roadmap
-- Personalized 4-week AI learning roadmap
-- Weekly improvement goals
-- Skill-based recommendations
-
 ### 🤖 AI Mock Interview
+
 - HR Questions
 - Resume-Based Questions
 - Technical Questions
@@ -61,29 +61,35 @@ The platform helps students understand their placement readiness and provides ac
 - Ideal Answer Suggestions
 
 ### 📊 Report Generation
-- Download Complete Career Report
+
+- Download Career Report
 
 ---
 
 # 🛠 Tech Stack
 
 ### Frontend
+
 - Next.js
 - React
 - TypeScript
 - Tailwind CSS
 
 ### Backend
-- Next.js API Routes
-- Groq LLM API
 
-### AI
+- Next.js API Routes
+- Groq API
+
+### AI Model
+
 - Llama 3.3 70B Versatile
 
 ### Deployment
+
 - Vercel
 
 ### Version Control
+
 - Git
 - GitHub
 
@@ -108,7 +114,7 @@ Clone the repository
 git clone https://github.com/Deepak2917/CareerTwin-AI.git
 ```
 
-Move inside project
+Go to the project folder
 
 ```bash
 cd CareerTwin-AI
@@ -120,16 +126,22 @@ Install dependencies
 npm install
 ```
 
-Create an environment file
+Create a `.env.local` file
 
 ```env
-GROQ_API_KEY=YOUR_GROQ_API_KEY
+GROQ_API_KEY=your_groq_api_key
 ```
 
-Run the project
+Start the development server
 
 ```bash
 npm run dev
+```
+
+Open your browser and visit:
+
+```
+http://localhost:3000
 ```
 
 ---
@@ -138,15 +150,19 @@ npm run dev
 
 ## Home Page
 
-_Add homepage screenshot here_
+_Add Home Page Screenshot_
+
+---
 
 ## Resume Analysis
 
-_Add analysis screenshot here_
+_Add Resume Analysis Screenshot_
 
-## AI Interview
+---
 
-_Add interview screenshot here_
+## AI Mock Interview
+
+_Add AI Interview Screenshot_
 
 ---
 
@@ -157,7 +173,6 @@ _Add interview screenshot here_
 - Voice-based AI Interview
 - AI Resume Builder
 - Company Interview Database
-- Multi-language Resume Analysis
 
 ---
 
@@ -165,16 +180,12 @@ _Add interview screenshot here_
 
 **Deepak Gowda S R**
 
-- GitHub: https://github.com/Deepak2917
+GitHub:
+https://github.com/Deepak2917
+
+LinkedIn:
+(Add your LinkedIn profile link here)
 
 ---
 
-# ⭐ If you like this project
-
-Please consider giving it a ⭐ on GitHub.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
+⭐ If you found this project useful, consider giving it a Star on GitHub.
