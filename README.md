@@ -150,21 +150,26 @@ http://localhost:3000
 
 ## Home Page
 
-_Add Home Page Screenshot_
+![Home Page](assets/screenshots/home.png)
 
 ---
 
 ## Resume Analysis
 
-_Add Resume Analysis Screenshot_
+![Resume Analysis](assets/screenshots/analysis.png)
+
 
 ---
 
 ## AI Mock Interview
 
-_Add AI Interview Screenshot_
+![AI Mock Interview](assets/screenshots/interview.png)
 
 ---
+
+## Coding Tracker & Learning Roadmap
+
+![Coding Tracker & Learning Roadmap](assets/screenshots/roadmap.png)
 
 # Future Improvements
 
